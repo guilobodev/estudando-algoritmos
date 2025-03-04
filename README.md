@@ -1,4 +1,4 @@
-Um repositório para acompanhar meus estudos do livro Entendendo Algoritmos, um guia ilustrado para programdores e outros curiosos.
+Um repositório para acompanhar meus estudos do livro: Entendendo Algoritmos, um guia ilustrado para programdores e outros curiosos.
 
 📖 Sobre
 Este repositório contém implementações e anotações dos algoritmos apresentados no livro. O objetivo é reforçar o aprendizado por meio da prática e compartilhar soluções.
