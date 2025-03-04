@@ -11,3 +11,4 @@
 
 # entao, para inserir deletar, as listas encadeadas são melhores que os arrays, mas para fazer a leitura os arrays são melhores.
 
+#
