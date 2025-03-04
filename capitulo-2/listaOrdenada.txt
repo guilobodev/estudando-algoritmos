@@ -1,0 +1,13 @@
+# arrays e listas encadeadas 
+# array != lista encadeadas;
+# array: todos os espaços da memoria precisam ser armezanados um ao lado do outro [][][][], contiguamente.
+# desvantagens: pode nao haver espaços contiguamente, e se for reservar espaços terá o desperdiçio da memoria não usada.
+
+# listas encadeadas: cada item armazena o endereço do proximo item, Nao precisando estar juntos, do lado do outro.
+
+# desvantagens: vamos supor que precisamos pegar o ultimo item da lista, mas temos que passar por todos os outros elementos para conseguirmos ver onde esta o endereço do ultimo item da lista.
+
+
+
+# entao, para inserir deletar, as listas encadeadas são melhores que os arrays, mas para fazer a leitura os arrays são melhores.
+
