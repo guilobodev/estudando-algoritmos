@@ -9,4 +9,4 @@ Este repositório contém implementações e anotações dos algoritmos apresent
 
 🚀 Tecnologias Utilizadas
 Linguagem: Python
-Ferramentas: VS Code com WSL - distro <Ubuntu> 
+Ferramentas: VS Code com WSL - distro Ubuntu 
